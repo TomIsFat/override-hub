@@ -1,0 +1,9 @@
+# https://mihomo.party/docs/guide/override/yaml
++rules:
+  # 手动切换
+  - "DOMAIN-KEYWORD,scholar.google.com,手动切换"
+  - "DOMAIN-SUFFIX,scholar.googleusercontent.com,手动切换"
+  - "DOMAIN-SUFFIX,designerapp.osi.office.net,手动切换"
+  # 节点选择
+  - "DOMAIN-SUFFIX,usc.edu,节点选择"
+  - "DOMAIN-SUFFIX,nitrc.org,节点选择"
